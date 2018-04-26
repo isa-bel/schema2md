@@ -1,0 +1,23 @@
+{
+  "name": "schema2md",
+  "version": "0.0.1",
+  "description": "Utility to convert JSON schemas to Markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isa-bel/schema2md.git"
+  },
+  "keywords": [
+    "JSON schema",
+    "Markdown"
+  ],
+  "author": "isa-bel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isa-bel/schema2md/issues"
+  },
+  "homepage": "https://github.com/isa-bel/schema2md#readme"
+}
